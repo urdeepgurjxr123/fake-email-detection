@@ -1,4 +1,4 @@
-# fake-email-detection
+
 # Fake Email Detection using Machine Learning
 
 🚀 A Machine Learning based project to classify whether an email is *spam/fake* or *genuine*.  
